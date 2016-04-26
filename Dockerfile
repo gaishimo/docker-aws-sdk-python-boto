@@ -1,3 +1,3 @@
 FROM python:3-alpine
 
-RUN pip install boto
+RUN pip install boto3
